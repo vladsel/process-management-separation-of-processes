@@ -1,0 +1,31 @@
+
+
+[Child]: new demon process param:
+
+[Child]: getpid = 11906, getgid = 1000, getsid = 11906
+
+[Child]: getpid = 11906, getgid = 1000, getsid = 11906
+
+
+[Child]: new demon process param:
+
+[Child]: getpid = 11922, getgid = 1000, getsid = 11922
+
+[Child]: getpid = 11906, getgid = 1000, getsid = 11906
+
+[Child]: getpid = 11922, getgid = 1000, getsid = 11922
+
+[Child]: getpid = 11906, getgid = 1000, getsid = 11906
+
+[Child]: getpid = 11922, getgid = 1000, getsid = 11922
+
+[Child]: getpid = 11906, getgid = 1000, getsid = 11906
+
+[Child]: getpid = 11922, getgid = 1000, getsid = 11922
+
+[Child]: getpid = 11906, getgid = 1000, getsid = 11906
+
+[Child]: getpid = 11922, getgid = 1000, getsid = 11922
+
+[Child]: getpid = 11906, getgid = 1000, getsid = 11906
+

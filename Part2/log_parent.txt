@@ -1,0 +1,14 @@
+
+[Parent]: new Program started
+
+[Parent]: new Child process created
+
+[Child]: close Parent's log file
+
+
+[Parent]: new Program started
+
+[Parent]: new Child process created
+
+[Child]: close Parent's log file
+
